@@ -1,3 +1,10 @@
+# Bloomberg Terminal data (proprietary)
+S5INFT*.xlsx
+SPX*.xlsx
+
+# macOS
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
